@@ -1,4 +1,4 @@
-# GettingStartedwithGithhub
+# GettingStartedwithGithub
 
 Read the following steps and guidelines to understand the basics of Github.
 
